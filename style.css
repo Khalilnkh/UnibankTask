@@ -1,0 +1,78 @@
+.back{
+    background-color: black;     
+}
+
+.head{
+    color: rgb(203, 98, 7);
+    padding: 10px;
+    font-size: 50px;
+    font-family:Arial, Helvetica, sans-serif;         
+}
+.titlefirst{
+    background-color: rgb(23, 23, 23);
+    padding: 50px;
+    border-radius: 10px;
+    height: 100px;
+    margin: 10px;
+}
+
+.first-head{
+    color: white;
+    font-size: 20px;  
+    font-family:Georgia, 'Times New Roman', Times, serif; 
+}
+.firstpar{
+    color: white;
+}
+.first-footer{
+    color: gray;
+}
+.titlefirst:hover{
+    background-color: rgb(203, 98, 7);
+}
+.titlesecond{
+    background-color: rgb(23, 23, 23);
+    padding: 50px;
+    border-radius: 10px;
+    height: 100px;
+    margin: 10px;
+}
+.second-head{
+    color: white;
+    font-size: 20px;  
+    font-family:Georgia, 'Times New Roman', Times, serif; 
+}
+.secondpar{
+    color: white;
+    margin-top: 20px;
+}
+.second-footer{
+    color: gray;
+    margin-top: 20px;
+}
+.titlesecond:hover{
+    background-color: rgb(203, 98, 7);
+}
+.titlethird{
+    background-color: rgb(23, 23, 23);
+    padding: 50px;
+    border-radius: 10px;
+    height: 100px;
+    margin: 10px;
+}
+.third-head{
+    color: white;
+    font-size: 20px;  
+    font-family:Georgia, 'Times New Roman', Times, serif; 
+}
+.thirdpar{
+    color: white;
+    margin-top: 20px;
+}
+.third-footer{
+    color: gray;
+    margin-top: 20px;
+}
+.titlethird:hover{
+    background-color: rgb(203, 98, 7);
+}
